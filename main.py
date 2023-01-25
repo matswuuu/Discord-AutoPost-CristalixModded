@@ -42,7 +42,7 @@ while True:
         message_founded = False
         for j in messages:
             if not message_founded: 
-                if j['author'].get('id') == '376700477041016843': # 618536577282342912
+                if j['author'].get('id') == '618536577282342912':
                     content = j['content'].lower()
                     for warp_name in warp_names:
                         if content.find(warp_name) != -1:
