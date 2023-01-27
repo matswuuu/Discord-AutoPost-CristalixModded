@@ -1,3 +1,4 @@
 discum==1.4.1
 pytz==2022.6
+art==5.8
 configparser==5.3.0
