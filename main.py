@@ -8,7 +8,7 @@ from pytz import timezone
 from art import tprint
 import plyer
 
-tprint('AutoPost      v0.0.2')
+tprint('AutoPost')
 config = ConfigParser()
 api_version = '9'
 
