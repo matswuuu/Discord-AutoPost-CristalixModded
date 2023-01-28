@@ -12,10 +12,10 @@
   - Уведомление о отправке сообщения
   
 ## Установка для Windows
-  [Скачать](https://www.python.org/downloads/), разархировать и запустить main.exe
+  [Скачать](https://github.com/matswuuu/Discord-AutoPost-CristalixModded/releases/download/v0.0.1/AutoPost.zip), разархировать и запустить main.exe
  
 ### Установка для остальных платформ
-  Для работы необходим [Python 3](https://github.com/matswuuu/Discord-AutoPost-CristalixModded/releases/download/v0.0.1/AutoPost.zip), дополнительные библиотеки
+  Для работы необходим [Python 3](https://www.python.org/downloads/), дополнительные библиотеки
   
 #### Установка библиотек
    Откройте командную строку и перейдите в папку с программой, запустите установку библиотек
