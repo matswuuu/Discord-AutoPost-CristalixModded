@@ -1,4 +1,4 @@
-configparser==5.3.0
 pytz==2022.6
+configparser==5.3.0
 art==5.8
 plyer==2.1.0
