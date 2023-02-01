@@ -4,15 +4,15 @@
 ## Функционал
   - Не использует Discord-клиент
   - Использование разных текстов
+  - Проверка с разными названиями варпа
   - Удаление отправленного сообщнеия
   - Рандомное удаление отправленного сообщения
   - Рандомный интервал между сообщениями
   - Сохранение конфигурации 
-  - Проверка с разными названиями варпа
   - Уведомление о отправке сообщения
   
 ## Установка для Windows
-  [Скачать](https://github.com/matswuuu/Discord-AutoPost-CristalixModded/releases/download/v0.0.1/AutoPost.zip), разархировать и запустить main.exe
+  [Скачать](https://github.com/matswuuu/Discord-AutoPost-CristalixModded/releases/download/v0.0.2/AutoPost.zip), разархировать и запустить main.exe
  
 ### Установка для остальных платформ
   Для работы необходим [Python 3](https://www.python.org/downloads/), дополнительные библиотеки
