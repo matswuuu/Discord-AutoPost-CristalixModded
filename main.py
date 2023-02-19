@@ -127,7 +127,7 @@ MAX_delay = int(MAX_delay) * 60
 api_version = '9'
 while True:
     for warp_name in warp_names:
-        results = requests.get(f'https://discord.com/api/v{api_version}/channels/{channel_ID}/messages/search?channel_id={channel_ID}&author_id=618536577282342912&content={warp_name}&sort_by=timestamp&sort_order=desc&limit=5', headers={'authorization': discord_token})
+        results = requests.get(f'https://discord.com/api/v{api_version}/channels/{channel_ID}/messages/search?channel_id={channel_ID}&author_id=618536577282342912&content={warp_name}&sort_by=timestamp&sort_order=desc&limit=1', headers={'authorization': discord_token})
         results = json.loads(results.text)
         for i in results['messages']:
             for o in i:
